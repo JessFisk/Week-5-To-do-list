@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Week-5-To-do-list/static/css/main.58faf3e8.css",
+    "main.js": "/Week-5-To-do-list/static/js/main.eb4c391c.js",
+    "index.html": "/Week-5-To-do-list/index.html",
+    "main.58faf3e8.css.map": "/Week-5-To-do-list/static/css/main.58faf3e8.css.map",
+    "main.eb4c391c.js.map": "/Week-5-To-do-list/static/js/main.eb4c391c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58faf3e8.css",
+    "static/js/main.eb4c391c.js"
+  ]
+}
